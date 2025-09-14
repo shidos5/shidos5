@@ -1,55 +1,70 @@
-🌟 Mohammed Almostfa Alhaj Alzain Ahmed
+# 🌟 Mohammed Almostfa Alhaj Alzain Ahmed  
 
-👨‍💻 Flutter Developer | Firebase | AI Integration | Clean Architecture
+![Flutter Developer Banner](https://img.shields.io/badge/Flutter%20Developer-%F0%9F%9A%80-blue?style=for-the-badge)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![AI Integration](https://img.shields.io/badge/AI%20Integration-%F0%9F%A4%96-purple?style=for-the-badge)  
+![Remote Ready](https://img.shields.io/badge/Remote%20Developer-%F0%9F%8C%90-green?style=for-the-badge)  
 
-👨‍💻 About Me
+---
 
-Hi! I’m Mohammed, a passionate Flutter Developer who loves building modern, scalable, and AI-powered mobile apps.
-I focus on creating smooth user experiences with clean architecture, Firebase integrations, and Hive local storage.
+## 👨‍💻 About Me  
 
-🚀 Freelancer | Open to Remote Flutter Roles
+Hi! I’m **Mohammed**, a passionate **Flutter Developer** who loves building **modern, scalable, and AI-powered mobile apps**.  
+I focus on creating **smooth user experiences** with **clean architecture, Firebase integrations, and Hive local storage**.  
 
-🎯 Experienced in cross-platform app development
+- 🚀 Freelancer | Open to Remote Flutter Roles  
+- 🎯 Experienced in **cross-platform app development**  
+- 🤖 Built apps that integrate **AI (Google Gemini)**  
+- 📱 Focused on **productivity, career, and wellness apps**  
 
-🤖 Built apps that integrate AI (Google Gemini)
+---
 
-📱 Focused on productivity, career, and wellness apps
+## 🚀 Tech Stack  
 
-🚀 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bloc-25A162?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+</p>  
 
-Languages: Dart, Java (learning)
+---
 
-Frameworks & Tools: Flutter, BLoC, Cubit, Provider
+## 📂 Featured Projects  
 
-Backend & Services: Firebase Auth, Firestore, Firebase Cloud Messaging
+### 📱 [MindMate App](https://github.com/shidos5/mindmate)  
+AI-powered **mental wellness app** with mood tracking, journaling, Pomodoro timer, and chat with AI Coach.  
 
-Databases: Hive, SQLite, Firestore
+### 💼 [HireMe App](https://github.com/shidos5/hireme)  
+Career-focused app with job discovery, resume export, and AI career advice.  
 
-Other Skills: Git/GitHub, REST APIs, Clean Architecture, UI/UX animations
+### 🎯 [SkillSync Pro](https://github.com/shidos5/skillsync)  
+Personal learning tracker with AI coaching, goals, and progress charts.  
 
-📂 Featured Projects
-📱 MindMate App
+### 🤖 [AI Chat App](https://github.com/shidos5/ai_chat_app)  
+Modern ChatGPT-like AI chat app with **Google Gemini integration** and chat history.  
 
-AI-powered mental wellness app with mood tracking, journaling, Pomodoro timer, and chat with AI Coach.
+---
 
-💼 HireMe App
+## 📊 GitHub Stats  
 
-Career-focused app with job discovery, resume export, and AI career advice.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shidos5&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shidos5&layout=compact&theme=radical" width="48%"/>
+</p>  
 
-🎯 SkillSync Pro
+---
 
-Personal learning tracker with AI coaching, goals, and progress charts.
+## 📫 Contact  
 
-🤖 AI Chat App
+- 📧 Email: **mohammedtamim@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/mohammed-almustafa-bb78a9320](https://www.linkedin.com/in/mohammed-almustafa-bb78a9320/)  
+- 💻 GitHub: [github.com/shidos5](https://github.com/shidos5)  
 
-Modern ChatGPT-like AI chat app with Google Gemini integration and chat history.
+---
 
-📫 Contact
-
-📧 Email: mohammedtamim249@gmail.com
-
-💼 LinkedIn: linkedin.com/in/mohammed-almustafa-bb78a9320
-
-💻 GitHub: github.com/shidos5
-
-✨ Always learning, always building!
+✨ *Always learning, always building!* 🚀  
